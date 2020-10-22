@@ -23,7 +23,7 @@ javac CurrencySalesApp.java CurrencyUtil.java Sale.java
 java CurrencySalesApp
 ```
 
-# Example Input:
+### Example Input:
 ```
 POL | 3200.50 | 9/9/2017
 IND | 8612.9 | 9/9/2019
